@@ -11,6 +11,13 @@ basic.forever(function () {
     images.createImage(`
         . . . . .
         . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `),
+    images.createImage(`
+        . . . . .
+        . . . . .
         . . # . .
         . . . . .
         . . . . .
